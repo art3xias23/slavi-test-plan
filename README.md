@@ -1,5 +1,6 @@
 # slavi-test-plan
 Using jmeter to test out the pet clinic spring api
+https://github.com/spring-petclinic/spring-petclinic-rest
 
 We have Two Thread Groups
 
